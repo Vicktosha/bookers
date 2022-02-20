@@ -1,0 +1,13 @@
+.models	{
+	padding: 30px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-content: space-around;
+}
+	.models_box	{
+		width: 200px;
+		img {
+			width: 100%;
+		}
+	}
