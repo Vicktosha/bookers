@@ -1,0 +1,22 @@
+{
+  "name": "vgbookers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vicktosha/bookers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vicktosha/bookers/issues"
+  },
+  "homepage": "https://github.com/Vicktosha/bookers#readme",
+  "dependencies": {
+    "tui-calendar": "^1.15.3"
+  }
+}

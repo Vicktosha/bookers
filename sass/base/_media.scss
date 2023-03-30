@@ -1,0 +1,25 @@
+@media (max-width: 576px) {
+    .menu {
+        position: relative;
+        .menu_item_n {
+            position: absolute;
+            bottom:60%;
+            left:15%
+        }
+        .menu_item_new {
+            position: absolute;
+            bottom:39%;
+            left:12%
+        }
+        .menu_item_m {
+            position: absolute;
+            bottom:60%;
+            left:67%
+        }
+        .menu_item_g {
+            position: absolute;
+            bottom:39%;
+            left:67%
+        }
+    }
+}

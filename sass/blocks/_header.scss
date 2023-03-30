@@ -1,0 +1,32 @@
+.header {
+    background-color: rgba(209, 202, 202, 0.5);
+}
+.menu	{
+    background: url(../img/vgmodels_bg.svg) no-repeat center/contain;
+	height: 100vh;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+	.menu_item, .menu_item_g, .menu_item_n, .menu_item_new, .menu_item_m{
+		text-align: center;
+		list-style-type:none;
+		// font-size: minmax(14px,30px);
+        font-size: 26px;
+		font-weight: 700;
+        text-shadow: 2px 1px 2px #000;
+	}
+		.menu_link	{
+			color: rgb(231, 227, 227);
+			text-decoration: none;
+			transition: 0.3s all;
+			border-color: black;
+			border-bottom: 2px;
+			width: 0%;
+		}
+			.menu_link:hover	{
+				color:grey;
+				transition: 0.3s all;
+				width: 100%;
+			}
+				
